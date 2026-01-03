@@ -749,7 +749,7 @@ function SiteFooter() {
                 <Instagram className="h-5 w-5" />
                 <span className="sr-only">Instagram</span>
               </a>
-              <a href="#" className="text-slate-400 hover:text-white transition-colors">
+              <a href="https://www.linkedin.com/company/tspcomputers/" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-white transition-colors">
                 <Linkedin className="h-5 w-5" />
                 <span className="sr-only">LinkedIn</span>
               </a>
