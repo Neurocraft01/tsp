@@ -760,6 +760,12 @@ function SiteFooter() {
               <p>Amrai Ali, Bhor, Pune,</p>
               <p>Maharashtra, India 412206</p>
             </div>
+            <div className="mt-4 text-sm text-slate-400">
+              <p className="font-semibold text-white mb-1">Pune Address:</p>
+              <p>Office 504, Fifth Floor, Navle Icon,</p>
+              <p>Near Navle Bridge, Banglore- Mumbai Highway</p>
+              <p>Narhe, Pune, Maharashtra India 411041</p>
+            </div>
           </div>
           <div>
             <h4 className="font-semibold text-white">Quick Links</h4>
